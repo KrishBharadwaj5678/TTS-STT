@@ -23,5 +23,5 @@
    ```
 3. Install dependencies:  
    ```bash
-   pip install gtts SpeechRecognition 
+   pip install gtts SpeechRecognition playsound
    ```
