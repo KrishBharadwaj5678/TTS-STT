@@ -15,7 +15,7 @@
 ## 📥 Installation  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/TTS-STT.git
+   git clone https://github.com/KrishBharadwaj5678/TTS-STT.git
    ```
 2. Navigate to the project directory:  
    ```bash
@@ -23,9 +23,5 @@
    ```
 3. Install dependencies:  
    ```bash
-   pip install gtts SpeechRecognition pydub
-   ```
-4. Run the script:  
-   ```bash
-   python main.py
+   pip install gtts SpeechRecognition 
    ```
