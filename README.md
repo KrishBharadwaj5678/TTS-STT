@@ -5,8 +5,7 @@
 ## ✨ Features  
 - 🔄 Convert text into natural-sounding speech  
 - 🎙️ Recognize and transcribe spoken words into text  
-- ⚡ Fast and efficient processing  
-- 🎛️ Customizable voice settings  
+- ⚡ Fast and efficient processing 
 
 ## 🛠️ Technologies Used  
 - **Python** – Core scripting language  
